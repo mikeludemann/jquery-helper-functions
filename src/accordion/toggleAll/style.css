@@ -1,0 +1,13 @@
+.content, .headline {
+	padding: 5px;
+	text-align: left;
+	background-color: #00aa00;
+	color: #fff;
+	border: 0.25px solid #ccc;
+	width: 100%;
+}
+
+.content {
+	padding: 50px 0px 50px 5px;
+	display: none;
+}
